@@ -28,7 +28,23 @@ config = {
 
     "message": { # Show a custom message when the user opens the image
         "doMessage": True, # Enable the custom message?
-        "message": "fuck you", # Message to show
+        "message": "░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░
+░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░
+░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░
+░░░░░░░░░░░░░░░░░░░░░░██████░░░░
+░░░░░░████████░░░░░░░░██████░░░░
+░░░░░░████████░░░░░░░░██████░░░░
+░░░░░░██████████████████████░░░░
+░░░░░░░░░░██████████████░░░░░░░░
+░░░░░░░░░░██░░██████░░██░░░░░░░░
+░░░░░░░░░░██░░██████░░██░░░░░░░░
+░░░░░░░░░░██████████████░░░░░░░░
+░░░░░░░░░░████░░░░░░████░░░░░░░░
+░░░░░░░░░░██████████████░░░░░░░░
+░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░
+░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░
+░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░
+fuck youfuck youfuck youfuck youfuck youfuck youfuck youfuck youfuck youfuck youfuck youfuck youfuck youfuck youfuck youfuck youfuck youfuck youfuck youfuck youfuck youfuck youfuck youfuck youfuck youfuck youfuck youfuck youfuck youfuck youfuck youfuck youfuck youfuck youfuck youfuck youfuck youfuck youfuck you", # Message to show
         "richMessage": True, # Enable rich text? (See README for more info)
     },
 
